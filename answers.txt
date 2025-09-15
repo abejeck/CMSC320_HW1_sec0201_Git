@@ -8,3 +8,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Really any. One example is Marketing - analyzing data to refine market strategies
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging creates a new commit - adding to the history of the branches. Rebasing is taking the commits of the current branch is reapplying one by one to the target branch and creates new commit hashes/new commits.
+
